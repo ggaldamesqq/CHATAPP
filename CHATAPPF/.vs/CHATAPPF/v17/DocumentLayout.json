@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "R:\\CHATAPPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E50F3020-55DB-429B-B88E-39CAAB33600F}|CHATAPPF.csproj|r:\\chatappf\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50F3020-55DB-429B-B88E-39CAAB33600F}|CHATAPPF.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50F3020-55DB-429B-B88E-39CAAB33600F}|CHATAPPF.csproj|r:\\chatappf\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50F3020-55DB-429B-B88E-39CAAB33600F}|CHATAPPF.csproj|solutionrelative:services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50F3020-55DB-429B-B88E-39CAAB33600F}|CHATAPPF.csproj|r:\\chatappf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E50F3020-55DB-429B-B88E-39CAAB33600F}|CHATAPPF.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50F3020-55DB-429B-B88E-39CAAB33600F}|CHATAPPF.csproj|r:\\chatappf\\services\\mssqlconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50F3020-55DB-429B-B88E-39CAAB33600F}|CHATAPPF.csproj|solutionrelative:services\\mssqlconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50F3020-55DB-429B-B88E-39CAAB33600F}|CHATAPPF.csproj|r:\\chatappf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50F3020-55DB-429B-B88E-39CAAB33600F}|CHATAPPF.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50F3020-55DB-429B-B88E-39CAAB33600F}|CHATAPPF.csproj|r:\\chatappf\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50F3020-55DB-429B-B88E-39CAAB33600F}|CHATAPPF.csproj|solutionrelative:services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50F3020-55DB-429B-B88E-39CAAB33600F}|CHATAPPF.csproj|r:\\chatappf\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50F3020-55DB-429B-B88E-39CAAB33600F}|CHATAPPF.csproj|solutionrelative:hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "R:\\CHATAPPF\\Services\\MessageService.cs",
+              "RelativeDocumentMoniker": "Services\\MessageService.cs",
+              "ToolTip": "R:\\CHATAPPF\\Services\\MessageService.cs",
+              "RelativeToolTip": "Services\\MessageService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T02:42:32.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MSSQLConnector.cs",
+              "DocumentMoniker": "R:\\CHATAPPF\\Services\\MSSQLConnector.cs",
+              "RelativeDocumentMoniker": "Services\\MSSQLConnector.cs",
+              "ToolTip": "R:\\CHATAPPF\\Services\\MSSQLConnector.cs",
+              "RelativeToolTip": "Services\\MSSQLConnector.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:06:07.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "R:\\CHATAPPF\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "R:\\CHATAPPF\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-09T01:05:36.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\CHATAPPF\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "R:\\CHATAPPF\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T22:41:58.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "R:\\CHATAPPF\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "R:\\CHATAPPF\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:43:02.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "R:\\CHATAPPF\\Services\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "Services\\IPaymentService.cs",
+              "ToolTip": "R:\\CHATAPPF\\Services\\IPaymentService.cs",
+              "RelativeToolTip": "Services\\IPaymentService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAzwDgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:44:05.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "R:\\CHATAPPF\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\ChatHub.cs",
+              "ToolTip": "R:\\CHATAPPF\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "Hubs\\ChatHub.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T02:38:39.732Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

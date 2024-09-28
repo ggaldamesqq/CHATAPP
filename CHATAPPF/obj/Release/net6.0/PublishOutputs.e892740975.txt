@@ -1,0 +1,7 @@
+R:\CHATAPPF\obj\Release\net6.0\PubTmp\Out\CHATAPPF.exe
+R:\CHATAPPF\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+R:\CHATAPPF\obj\Release\net6.0\PubTmp\Out\appsettings.json
+R:\CHATAPPF\obj\Release\net6.0\PubTmp\Out\CHATAPPF.dll
+R:\CHATAPPF\obj\Release\net6.0\PubTmp\Out\CHATAPPF.deps.json
+R:\CHATAPPF\obj\Release\net6.0\PubTmp\Out\CHATAPPF.runtimeconfig.json
+R:\CHATAPPF\obj\Release\net6.0\PubTmp\Out\CHATAPPF.pdb
